@@ -11,10 +11,10 @@ projectUrl: https://www.figma.com/proto/cR9Zb73IpXj0m7pmitzT10/Untitled?node-id=
 ---
 
 ## Descripción 
-dfkjslfkajs 
+queria que mi novio me besara
 ## Problema 
-jdskafjsjd
+mi novio no me besa mucho
 ## Solución
-djkfjalsjfla 
+beso de mi novio
 ## Conclusiones 
-jfkdasfjasdkjflasdjlfjadskj
+amo a mi novio
