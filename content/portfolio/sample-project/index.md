@@ -8,6 +8,7 @@ techs: [javascript, D3]
 designs: [Photoshop]
 thumbnail: sample-project/sample.jpg
 projectUrl: https://www.sampleorganization.org
+draft: true
 testimonial:
   name: John Doe
   role: CEO @Example
