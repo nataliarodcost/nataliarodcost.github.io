@@ -11,10 +11,10 @@ projectUrl: https://www.figma.com/proto/cR9Zb73IpXj0m7pmitzT10/Untitled?node-id=
 ---
 
 ## Descripción 
-queria que mi novio me besara
+Diseño de escritorio para una aplicacion acerca del manejo y administracion de las finanzas
 ## Problema 
-mi novio no me besa mucho
+nos enfocamos en  la comodidad del usuario para poder tener una inteerfaz intuitiva y organizada y mejorar su usabilidad
 ## Solución
-beso de mi novio
-## Conclusiones 
-amo a mi novio
+dimos con la mejora de un diseño que sea inteligente y facil de usar para organixar las transacciones y se pueda acceder a ellas consultando sus detalles
+
+
