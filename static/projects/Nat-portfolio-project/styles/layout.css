@@ -1,0 +1,23 @@
+body nav {
+  grid-area: navbar;
+  background-color: black;
+}
+
+body h2 {
+  grid-area: title;
+  margin-right: 1em;
+}
+
+.data1 {
+  grid-area: data1; 
+}
+
+.data2 {
+  grid-area: data2;
+}
+
+.datatable {
+  grid-area: table;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}

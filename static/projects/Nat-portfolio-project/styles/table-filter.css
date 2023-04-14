@@ -1,0 +1,57 @@
+.radio-inputs {
+  grid-area: searchTags;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 0.25rem;
+  width: 100%;
+  font-size: 14px;
+  border-color: rgba(0,0,0,0);
+}
+
+.radio-inputs .radio {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.radio-inputs .radio input {
+  display: none;
+}
+
+.radio-inputs .radio .name {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+  border: none;
+  padding: .5rem 0;
+  color: rgba(51, 65, 85, 1);
+  transition: all .15s linear;
+}
+
+.radio-inputs .radio input:checked + .name {
+  color: #eee; 
+}
+.radio-inputs .radio :not(input:checked) + .name:hover {
+  color: #9a9a9a; 
+  background-color: #dddddd;
+}
+
+.radio-inputs .radio input:checked + .name[data-text="Pendiente"]  {
+  background-color: #EBED84;
+  color: #8B8D09;
+}
+
+.radio-inputs .radio input:checked + .name[data-text="Pagado"]  {
+  background-color: #03BB85;
+}
+
+.radio-inputs .radio input:checked + .name[data-text="Atrasado"]  {
+  background-color: #ee4141;
+}
+
+.radio-inputs .radio input:checked + .name[data-text="Todos"]  {
+  background-color: #419aee;
+}

@@ -1,0 +1,17 @@
+.menu-text {
+  color: white; 
+  font-family: 'Inter', sans-serif;
+  font-weight: lighter;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+}
+
+@media screen and (max-width: 1400px) {
+  .menu-text {
+    font-size: 0.8em;
+  }
+}
+
+.menu-link {
+  text-decoration: none;
+}

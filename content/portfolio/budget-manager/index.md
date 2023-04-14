@@ -10,6 +10,8 @@ thumbnail: budget-manager/thumbnail.png
 projectUrl: https://www.figma.com/proto/cR9Zb73IpXj0m7pmitzT10/Untitled?node-id=7-65&scaling=scale-down&page-id=0%3A1&starting-point-node-id=7%3A65
 ---
 
+[Demo](/projects/Nat-portfolio-project)
+
 ## Descripción 
 Diseño de escritorio para una aplicacion acerca del manejo y administracion de las finanzas
 ## Problema 

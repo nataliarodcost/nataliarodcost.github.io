@@ -1,0 +1,45 @@
+.data {
+  display: flex;
+  flex-direction: column;
+  padding-block: 1em;
+  padding: 0;
+}
+
+.data h3 {
+  display: flex;
+  justify-content: start;
+  padding-left: 3em;
+}
+
+.data span {
+  display: flex; 
+  justify-content: center;
+}
+
+.money {
+  font-size: 1.4em; 
+  font-weight: bold;
+}
+
+@media screen and (max-width: 1400px) {
+  .data {
+    padding-top: 5px;
+    padding-bottom: 15px;
+  }
+
+  .money { font-size: 1rem; }
+
+  .data-text {
+    font-size: 1rem;
+    padding: 0;
+    margin-block: 10px;
+  }
+}
+
+.data-title {
+  grid-area: data-title;
+
+}
+.data-content {
+  grid-area: content;
+}

@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+
+  display: grid; 
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(7, 1fr);
+  grid-template-areas: 
+    "navbar title title title title" 
+    "navbar . data1 data2 ." 
+    "navbar table table table table"
+    "navbar table table table table"
+    "navbar table table table table"
+    "navbar table table table table"
+    "navbar table table table table";
+  gap: 1.5em;
+
+  background-color: #ededee;
+}
